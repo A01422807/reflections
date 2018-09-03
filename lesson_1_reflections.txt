@@ -1,0 +1,1 @@
+Curso básico, introductorio al control y gestión de versiones, supongo que será de mucha utilidad en android y archivos de texto en general
