@@ -13,3 +13,7 @@ Si, sin ellos no sabría que esta pasando
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 No pude :c
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Git no puede adivinar que la lógica del código, por lo que combinar automáticamente las ramas es riesgoso, mientras que combinar manual consume mas tiempo, puedes evitar tragedias
