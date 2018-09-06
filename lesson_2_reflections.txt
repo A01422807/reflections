@@ -3,3 +3,6 @@ La staging area es un área transitiva, con el objetivo de servir como paso inter
 
 How can you use the staging area to make sure you have one commit per logical change?
 Usando el comando git diff
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Crear diferentes ramas resulta muy util para funciones experimentales, que son cambios que no son seguros a cometer
