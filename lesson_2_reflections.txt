@@ -10,3 +10,6 @@ Crear diferentes ramas resulta muy util para funciones experimentales, que son c
 
 How do the diagrams help you visualize the branch structure?
 Si, sin ellos no sabría que esta pasando
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+No pude :c
