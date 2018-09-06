@@ -1,2 +1,5 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 La staging area es un área transitiva, con el objetivo de servir como paso intermedio y reducir los commits erróneos
+
+How can you use the staging area to make sure you have one commit per logical change?
+Usando el comando git diff
