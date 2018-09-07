@@ -1,4 +1,4 @@
-When would you want to use a remote repository rather than keeping all your work
+﻿When would you want to use a remote repository rather than keeping all your work
 local?
 
 Para trabajar en equipo
@@ -21,7 +21,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    La verdad no sé como podría colaborar de manera mas practica que dominando github, la curva de aprendizaje es alta, pero al parecer vale la pena
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
